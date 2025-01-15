@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Abel 👋</h1>
+<p align="center">
+I’m a student majoring in Information System and Technology at Institut Teknologi Bandung. I'm passionate about data analytics, business intelligence, and exploring innovative solutions using technology.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abelaprl&color=blueviolet" alt="profile views">
