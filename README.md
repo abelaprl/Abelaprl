@@ -35,6 +35,8 @@ I’m a student majoring in Information System and Technology at Institut Teknol
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/CMake-%23000000.svg?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+  <img src="https://img.shields.io/badge/OpenCV-%23F1C232.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 </p>
   <!-- Tambahkan lebih banyak sesuai kebutuhan -->
 </p>
