@@ -3,6 +3,12 @@
 I’m a student majoring in Information System and Technology at Institut Teknologi Bandung. I'm passionate about data analytics, business intelligence, and exploring innovative solutions using technology.
 </p>
 
+
+### 🌱 About Me 
+- 🌱 I’m learning more about machine learning and artificial intelligence.  
+- 💬 Feel free to ask me about data analytics, programming, or anything tech-related!  
+- 📫 How to reach me: [abelapriliani88@gmail.com](mailto:abelapriliani88@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abel-apriliani-131309260/)  
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abelaprl&color=blueviolet" alt="profile views">
 </p>
@@ -37,6 +43,8 @@ I’m a student majoring in Information System and Technology at Institut Teknol
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
     <img src="https://img.shields.io/badge/CMake-%23000000.svg?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/OpenCV-%23F1C232.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React Native">
 </p>
   <!-- Tambahkan lebih banyak sesuai kebutuhan -->
 </p>
